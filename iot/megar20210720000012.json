@@ -1,0 +1,18 @@
+{
+    "ioturl": "aw1nu4wbx9q7b.ats.iot.cn-north-1.amazonaws.com.cn",
+    "port": 8883,
+    "pem": "/home/pi/megar/iot/AmazonRootCA1.pem",
+    "key": "/home/pi/megar/iot/Privatekey.pem.key",
+    "crt": "/home/pi/megar/iot/Certificate.pem.crt",
+    "clientid": "DEV_2cbd5405d10947c09040dbc1a15a103e",
+    "re_mg": {
+        "deviceId": "2cbd5405d10947c09040dbc1a15a103e",
+        "deviceName": "devpi_00",
+        "clientId": "DEV_2cbd5405d10947c09040dbc1a15a103e",
+        "tenantId": "wangdongchuan",
+        "env": "DEV",
+        "model": "AgrissaT1",
+        "sn": "megar20210720000012",
+        "status":"active"
+    }
+}
